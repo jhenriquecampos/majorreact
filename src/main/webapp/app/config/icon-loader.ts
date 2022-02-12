@@ -34,6 +34,8 @@ import { faWrench } from '@fortawesome/free-solid-svg-icons/faWrench';
 
 import { library } from '@fortawesome/fontawesome-svg-core';
 
+import { faReact } from '@fortawesome/free-brands-svg-icons/faReact';
+
 export const loadIcons = () => {
   library.add(
     faArrowLeft,
@@ -68,6 +70,7 @@ export const loadIcons = () => {
     faUserPlus,
     faUsers,
     faUsersCog,
-    faWrench
+    faWrench,
+    faReact
   );
 };
