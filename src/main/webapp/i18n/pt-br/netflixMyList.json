@@ -1,0 +1,25 @@
+{
+  "majorreactApp": {
+    "netflixMyList": {
+      "home": {
+        "title": "Netflix My Lists",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Netflix My List",
+        "createOrEditLabel": "Criar ou editar Netflix My List",
+        "notFound": "Nenhum Netflix My List encontrado"
+      },
+      "created": "Um novo Netflix My List foi criado com o identificador {{ param }}",
+      "updated": "Um Netflix My List foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Netflix My List foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Netflix My List {{ id }}?"
+      },
+      "detail": {
+        "title": "Netflix My List"
+      },
+      "id": "ID",
+      "movieCod": "Movie Cod",
+      "user": "User"
+    }
+  }
+}

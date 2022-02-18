@@ -8,6 +8,7 @@
       "projects": "Projects",
       "entities": {
         "main": "Entities",
+        "netflixMyList": "Netflix My List",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
