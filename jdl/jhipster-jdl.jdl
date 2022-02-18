@@ -1,0 +1,7 @@
+entity NetflixMyList {
+	movieCod Integer required
+}
+
+relationship ManyToOne {
+	NetflixMyList{user required} to User
+}
