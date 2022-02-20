@@ -5,7 +5,10 @@
     "menu": {
       "home": "Início",
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
-      "projects": "Projetos",
+      "projects": {
+        "main": "Projetos",
+        "netflix": "Netflix"
+      },
       "entities": {
         "main": "Entidades",
         "netflixMyList": "Netflix My List",
